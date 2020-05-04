@@ -9,8 +9,8 @@
 <script>
 export default {
   name: 'App'
-}
-</script>
+} 
+</script>     
 
 <style>
 :root{
@@ -22,7 +22,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .sample{
   font-weight:var(--sample-weight);
